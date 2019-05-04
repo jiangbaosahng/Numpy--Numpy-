@@ -3,9 +3,9 @@
 一个简单的神经网络结构包括，输入层，输出层以及隐藏层。隐藏层里面包含激活函数。
  神经网络简单来说就是一个复杂的函数。拿最基本的函数来举例子：
 
-Y=\partial X + b
+Y= W*X+b
 
-其中，输入层是X，Y是输出层，而隐藏层确定的是\partial 即权重。
+其中，输入层是X，Y是输出层，而隐藏层确定的是W，即权重。
 
 权重的更新和确定需要梯度下降、激活函数等机制。
 
@@ -14,5 +14,8 @@ Y=\partial X + b
 tan(x)的特点时候在[-2,2]这个区间内有较大的变化。其他输入不会有太大的变化。
 图像如下：
 
-softmax函数图像和表达式如下：
+![Image text]https://github.com/jiangbaosahng/Numpy--Numpy-/blob/master/image/timg.jpg
+
+softmax函数图像和表达式如下（其加和等于1）：
+
 
