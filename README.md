@@ -16,7 +16,7 @@ Y= W*X+b
 tan(x)的特点时候在[-2,2]这个区间内有较大的变化。其他输入不会有太大的变化。
 图像如下：
 
-![Image text](https://github.com/jiangbaosahng/Numpy--Numpy-/blob/master/image/timg.jpg)
+![Image text](https://github.com/jiangbaosahng/Numpy--Numpy-/blob/master/image/timg1.jpg)
 
 softmax函数图像和表达式如下（其加和等于1）：
 
