@@ -125,6 +125,6 @@ predict(np.random.rand(784),parameters).argmax()
 
 
 待解决问题：
-argmax的用法？
+argmax的用法？？
 
 
